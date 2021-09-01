@@ -1,5 +1,5 @@
 # About
-<div>
+<div style="display: block">
 
 [![GitHub](/images/GITHUB.png)](https://github.com/venkatkollimarla) 
 [![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/venkatkollimarla/) 
