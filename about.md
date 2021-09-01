@@ -1,12 +1,12 @@
 # About
-<div style="text-align: left">
+<p align ="left">
 
 [![LinkedIn](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](kvincloud@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatkollimarla/)
 [![medium](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github)](https://github.com/venkatkollimarla)
 [![medium](https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kvincloud59)
 
-</div>
+</p>
 
 ### Hey 👋, I'm Venkat
 
