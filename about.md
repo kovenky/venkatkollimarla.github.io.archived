@@ -1,7 +1,7 @@
 # About
 
-[![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/venkatkollimarla/)
-[![medium](/images/twitter.png)](https://venkatkollimarla.medium.com/)
+[<img alt="LinkedIn" height="5" src="/images/linkedin.svg" width="5"/>](https://www.linkedin.com/in/venkatkollimarla/)
+[<img alt="twitter" height="5" src="/images/twitter.png" width="5"/>](https://twitter.com/kvincloud59)
 
 ### Hey 👋, I'm Venkat
 
