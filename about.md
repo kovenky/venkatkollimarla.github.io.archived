@@ -1,10 +1,9 @@
 # About
-<div style="display: block">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatkollimarla/)
 [![medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium)](https://venkatkollimarla.medium.com/)
 [![medium](https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kvincloud59)
-</div>
+
 <br/>
 
 
