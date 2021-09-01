@@ -1,8 +1,6 @@
 # About
 
-[<img alt="GitHub" height="50" src="/images/GITHUB.png" width="50"/>](https://github.com/venkatkollimarla)
-[<img alt="LinkedIn" height="50" src="/images/linkedin.svg" width="50"/>](https://www.linkedin.com/in/venkatkollimarla/)
-[<img alt="twitter" height="50" src="/images/twitter.png" width="50"/>](https://twitter.com/kvincloud59)
+[<img alt="GitHub" height="50" src="/images/GITHUB.png" width="50"/>](https://github.com/venkatkollimarla) [<img alt="LinkedIn" height="50" src="/images/linkedin.svg" width="50"/>](https://www.linkedin.com/in/venkatkollimarla/) [<img alt="Twitter" height="50" src="/images/twitter.png" width="50"/>](https://twitter.com/kvincloud59)
 
 ### Hey 👋, I'm Venkat
 
