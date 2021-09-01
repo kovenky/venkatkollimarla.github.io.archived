@@ -1,8 +1,17 @@
 # About
-<br/>
 
-##[![LinkedIn](https://img.shields.io/badge/Email-blue?style=for-the-badge&amp;logo=gmail)](kvincloud@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/venkatkollimarla/) [![medium](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&amp;logo=github)](https://github.com/venkatkollimarla) [![medium](https://img.shields.io/badge/Twitter-green?style=for-the-badge&amp;logo=Twitter)](https://twitter.com/kvincloud59)
+<table>
+<tr>
+<td>
 
+[![LinkedIn](https://img.shields.io/badge/Email-blue?style=for-the-badge&amp;logo=gmail)](kvincloud@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/venkatkollimarla/) 
+[![medium](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&amp;logo=github)](https://github.com/venkatkollimarla) 
+[![medium](https://img.shields.io/badge/Twitter-green?style=for-the-badge&amp;logo=Twitter)](https://twitter.com/kvincloud59)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
