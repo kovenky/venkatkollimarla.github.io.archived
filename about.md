@@ -1,6 +1,7 @@
 # About
-[<img alt="LinkedIn" height="5" src="images/LINKEDIN.png" width="5"/>](https://www.linkedin.com/in/venkatkollimarla/)
-[<img alt="medium" height="5" src="images/twitter.png" width="5"/>](https://venkatkollimarla.medium.com/)
+
+[<img alt="LinkedIn" height="50" src="/images/LINKEDIN.png" width="50"/>](https://www.linkedin.com/in/venkatkollimarla/)
+[<img alt="medium" height="50" src="/images/twitter.png" width="50"/>](https://venkatkollimarla.medium.com/)
 
 ### Hey 👋, I'm Venkat
 
