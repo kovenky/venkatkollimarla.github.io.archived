@@ -1,6 +1,6 @@
 # About
 
-### [Twitter](https://twitter.com/kvincloud59) | [GitHub](https://github.com/venkatkollimarla) | [Email](kvincloud@gmail.com) | [LinkedIn](https://www.linkedin.com/in/venkatkollimarla/)
+#### [Twitter](https://twitter.com/kvincloud59) | [GitHub](https://github.com/venkatkollimarla) | [Email](kvincloud@gmail.com) | [LinkedIn](https://www.linkedin.com/in/venkatkollimarla/)
 
 
 ### Hey 👋, I'm Venkat
