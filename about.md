@@ -1,10 +1,6 @@
 # About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/venkatkollimarla/)
-[![medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium)](https://venkatkollimarla.medium.com/)
-[![medium](https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kvincloud59)
-
-<br/>
+### [Twitter](https://twitter.com/kvincloud59) | [GitHub](https://github.com/venkatkollimarla) | [Email](kvincloud@gmail.com) | [LinkedIn](https://www.linkedin.com/in/venkatkollimarla/)
 
 
 ### Hey 👋, I'm Venkat
