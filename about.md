@@ -1,5 +1,5 @@
 # About
-<div align ="left">
+<div style="align-content: normal">
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&amp;logo=gmail"/>](kvincloud@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin"/>](https://www.linkedin.com/in/venkatkollimarla/)
