@@ -1,7 +1,6 @@
 ## Welcome To My Blog
 
 ### Hey 👋, I'm Venkat 
-<br/>
 
 I'm a **Machine Learning Engineer** at [Quicken Loans](https://www.quickenloans.com/), where I use my skills to empower bankers operate more efficiently and take good pricing decisions for mortgage loans. 
 I help them accomplish these lofty goals by developing machine learning solutions.
