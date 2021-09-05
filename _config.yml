@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Venkat Kollimarla
-description: A collection of technical blogs and talks on machine learning and data science.
+description: A Machine Learning Engineer changing bits for good.
 show_downloads: false
 google_analytics: G-CZY5J456Q2
-logo: ./venkat.jpg
+logo: ./assets/venkat.jpg
