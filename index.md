@@ -22,7 +22,7 @@ I am a Software Engineer turned Machine Learning Engineer - thanks to the wonder
 
 | Title        | Article           | Repository  |
 | ------------- |:-------------:| :-----:|
-| An intuitive example to K-NN Algorithm. | [🔗](https://medium.com/@venkykoll/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b) | None
+| An intuitive example of K-NN Algorithm. | [🔗](https://medium.com/@venkykoll/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b) | None
 | Auto Tracking Model training.| [🔗](https://medium.com/mlearning-ai/a-pain-killer-for-managing-ml-lifecycle-part-1-70adb7c19c3a) | [🔗](https://github.com/venkatkollimarla/tf-keras-with-mlflow)
 
 
