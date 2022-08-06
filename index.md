@@ -9,7 +9,7 @@ I help them accomplish these lofty goals by developing machine learning solution
 
 I love building things and experimenting with new things, and I learn every day.
 
-I am a self-taught Machine Learning Engineer - thanks to the wonderful internet community, friends and mentors.
+I am a Software Engineer turned Machine Learning Engineer - thanks to the wonderful internet community, friends, peers and mentors.
 
 ### Projects
 
@@ -19,7 +19,8 @@ I am a self-taught Machine Learning Engineer - thanks to the wonderful internet 
 ### Blog Articles / Papers
 Links to associated github repos (and live demos if available) are located in blog articles.
 
-- <a href="https://venkatkollimarla.medium.com/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b" target="_blank">ML Nuggets - Intro to K-NN:</a> An intuitive example to K-NN Algorithm.
+- <a href="https://medium.com/@venkykoll/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b" target="_blank">ML Nuggets - Intro to K-NN:</a> An intuitive example to K-NN Algorithm.
+- <a href="https://medium.com/mlearning-ai/a-pain-killer-for-managing-ml-lifecycle-part-1-70adb7c19c3a" target="_blank">A pain killer for managing ML lifecycle</a> Auto Tracking Model training.
 
 
 ---
