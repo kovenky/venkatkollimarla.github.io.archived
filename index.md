@@ -13,16 +13,16 @@ I am a Software Engineer turned Machine Learning Engineer - thanks to the wonder
 
 ### Projects
 
-- To be added . . .
+| Title        | Description           | Repository  |
+| ------------- |:-------------:| :-----:|
+| ToDo | None | None
 
 
 ### Blog Articles / Papers
-Links to associated github repos (and live demos if available) are located in blog articles.
 
-- <a href="https://medium.com/@venkykoll/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b" target="_blank">ML Nuggets - Intro to K-NN:</a> An intuitive example to K-NN Algorithm.
-- <a href="https://medium.com/mlearning-ai/a-pain-killer-for-managing-ml-lifecycle-part-1-70adb7c19c3a" target="_blank">A pain killer for managing ML lifecycle</a> Auto Tracking Model training.
+| Title        | Article           | Repository  |
+| ------------- |:-------------:| :-----:|
+| An intuitive example to K-NN Algorithm. | [🔗](https://medium.com/@venkykoll/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b) | None
+| Auto Tracking Model training.| [🔗](https://medium.com/mlearning-ai/a-pain-killer-for-managing-ml-lifecycle-part-1-70adb7c19c3a) | [🔗](https://github.com/venkatkollimarla/tf-keras-with-mlflow)
 
 
----
-
-<a href="https://github.com/venkatkollimarla/venkatkollimarla.github.io" target="_blank">Edit on GitHub</a>
